@@ -49,7 +49,7 @@
   Plataforma educativa para niños con ejercicios interactivos de sumas, orientada al refuerzo del aprendizaje temprano.  
 
 - 📦 [**FastInventory**](https://github.com/andresmtataseo/FastInventory)  
-  Aplicación Android para el control ágil de inventario, pensada para negocios pequeños y medianos que requieran una gestión práctica y móvil.  
+  API REST para el control ágil de inventario.
 
 ---
 
