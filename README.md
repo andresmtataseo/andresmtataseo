@@ -2,7 +2,8 @@
 
 ### 👨🏻‍💻 Sobre mí
 
-🎓 Cursante del onceavo (11.º) trimestre de Ingeniería en Informática en la URBE. Actualmente complemento mi formación con un diplomado en Full Stack Web Developer.  
+🎓 Cursante del duodécimo (12.º) trimestre de Ingeniería en Informática en la URBE. 
+    Diplomado en Full Stack Web Developer.  
 💻 Tengo experiencia en el desarrollo de aplicaciones Android nativas y en la creación de soluciones web fullstack, tanto en frontend como backend.  
 💡 Apasionado por la tecnología, disfruto construir herramientas útiles aplicando buenas prácticas de arquitectura y diseño.  
 📬 Puedes escribirme a [andresmoreno2001@gmail.com](mailto:andresmoreno2001@gmail.com) o conectar vía [LinkedIn](https://www.linkedin.com/in/andresmtataseo/).
@@ -39,17 +40,19 @@
 
 ### 📂 Proyectos destacados
 
-- 🩺 [**NutriZulia Android**](https://github.com/andresmtataseo/NutriZulia-Android)  
-  Aplicación móvil en desarrollo para gestionar citas nutricionales en centros de salud del Estado Zulia. Forma parte de un sistema integral orientado al sector público.  
+- 🩺 [**NutriZulia Backend**](https://github.com/andresmtataseo/NutriZulia-Backend)  
+  Núcleo de servicios que soporta tanto el Sistema Administrativo Web como la aplicación móvil utilizada por nutricionistas de instituciones públicas del Estado Zulia.  
+  Es una propuesta tecnológica dirigida a la **Coordinación Regional de Nutrición y Dietética del Estado Zulia**.  
+  Expone una **API RESTful segura** que centraliza el registro, sincronización, consulta y análisis de datos clínicos y administrativos relacionados con el estado nutricional de la población atendida.
 
-- 💻 [**NutriZulia Backend**](https://github.com/andresmtataseo/NutriZulia-Backend)  
-  API REST en construcción, desarrollada con Spring Boot. Está diseñada para apoyar la gestión de pacientes y reportes estadísticos de la aplicación NutriZulia.  
+- 🖥️ [**NutriZulia Web**](https://github.com/andresmtataseo/NutriZulia)  
+  Frontend administrativo del ecosistema **NutriZulia**, construido con **Angular**.  
+  Consume la API del backend para autenticación, gestión de usuarios e instituciones, visualización de dashboards con métricas y descarga de reportes públicos.  
+  Está orientado a roles **SUPERVISOR** y **ADMINISTRADOR**.
 
-- 🎮 [**SumaKids**](https://github.com/andresmtataseo/SumaKids)  
-  Plataforma educativa para niños con ejercicios interactivos de sumas, orientada al refuerzo del aprendizaje temprano.  
-
-- 📦 [**FastInventory**](https://github.com/andresmtataseo/FastInventory)  
-  API REST para el control ágil de inventario.
+- 📱 [**NutriZulia Android**](https://github.com/andresmtataseo/NutriZulia-Android)  
+  Aplicación móvil Android desarrollada para la **Coordinación Regional de Nutrición y Dietética**.  
+  Esta herramienta digital facilita la **gestión integral de pacientes y consultas nutricionales**, permitiendo a los profesionales de la salud realizar un seguimiento completo del estado nutricional de sus pacientes.
 
 ---
 
@@ -72,4 +75,3 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresmoreno2001@gmail.com)
 
 ---
-
