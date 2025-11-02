@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 Sobre mí
 
-🎓 Cursante del duodécimo (12.º) trimestre de Ingeniería en Informática en la URBE. 
-    Diplomado en Full Stack Web Developer.  
+🎓 Cursante del duodécimo (12.º) trimestre de Ingeniería en Informática en la URBE.  
+🎓 Diplomado en Full Stack Web Developer.  
 💻 Tengo experiencia en el desarrollo de aplicaciones Android nativas y en la creación de soluciones web fullstack, tanto en frontend como backend.  
 💡 Apasionado por la tecnología, disfruto construir herramientas útiles aplicando buenas prácticas de arquitectura y diseño.  
 📬 Puedes escribirme a [andresmoreno2001@gmail.com](mailto:andresmoreno2001@gmail.com) o conectar vía [LinkedIn](https://www.linkedin.com/in/andresmtataseo/).
@@ -13,10 +13,13 @@
 ### 🛠 Tecnologías y herramientas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Room](https://img.shields.io/badge/room-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,6 +56,15 @@
 - 📱 [**NutriZulia Android**](https://github.com/andresmtataseo/NutriZulia-Android)  
   Aplicación móvil Android desarrollada para la **Coordinación Regional de Nutrición y Dietética**.  
   Esta herramienta digital facilita la **gestión integral de pacientes y consultas nutricionales**, permitiendo a los profesionales de la salud realizar un seguimiento completo del estado nutricional de sus pacientes.
+
+- ✂️ [**Calibarber Backend**](https://github.com/andresmtataseo/Calibarber-Backend)  
+  Sistema de gestión para barberías, construido con **Spring Boot 3** para ofrecer un backend robusto, seguro y escalable.  
+  Proporciona autenticación basada en **JWT**, gestión de usuarios y roles, administración de barberías, disponibilidad de barberos, catálogo de servicios, programación de citas y registro de pagos.
+
+- 💈 [**Calibarber Web**](https://github.com/andresmtataseo/Calibarber)  
+  Aplicación web **SPA (Single Page Application)** desarrollada con **Angular CLI 20.x**.  
+  Permite a los usuarios registrarse, iniciar sesión, gestionar perfiles, explorar barberías y servicios, programar citas y visualizar pagos e historial.  
+  Está diseñada para integrarse de forma segura y eficiente con la API de **Calibarber Backend**.
 
 ---
 
